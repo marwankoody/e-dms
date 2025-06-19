@@ -4,20 +4,23 @@ body{
 }
 
 .mainOne{
-    background: url('./iamges/p1.png');    
+    background: url('./iamges/p1.png') no-repeat;    
     background-size: cover;
-    height: 574vh;
+    height: 570vh;
+    width: 100%;
 }
 .mainTwo{
-    background: url('./iamges/p2.png');    
+    background: url('./iamges/p2.png') no-repeat;    
     background-size: cover;
     height: 676vh;
+    width: 100%;
 }
 
 .mainThree{
-    background: url('./iamges/p3.png');    
+    background: url('./iamges/p3.png') no-repeat;    
     background-size: cover;
     height: 720vh;
+    width: 100%;
 }
 
 
